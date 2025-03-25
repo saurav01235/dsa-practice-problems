@@ -1,0 +1,30 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Environment files
+.env
+.venv/
+venv/
+test/
+
+# OS-specific junk files
+*.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Build and package directories
+build/
+dist/
+*.egg-info/
+
+# Personal config
+*.bak
